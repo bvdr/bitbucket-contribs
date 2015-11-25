@@ -1,3 +1,3 @@
 <?php
-        echo "yldni";
+        echo "uinqe";
 ?>
