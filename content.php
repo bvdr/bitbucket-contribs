@@ -13,5 +13,4 @@
         echo "uarvi";
         echo "lygdq";
         echo "ijcgq";
-        echo "admnd";
 ?>
