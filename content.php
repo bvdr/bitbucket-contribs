@@ -12,5 +12,4 @@
         echo "hhrau";
         echo "uarvi";
         echo "lygdq";
-        echo "fhfxs";
 ?>
